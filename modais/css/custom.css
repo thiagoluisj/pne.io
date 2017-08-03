@@ -1,0 +1,17 @@
+body{padding:22px; background:#2a6da8; color:#fff;}
+
+.h1, h1 {
+    font-size: 25px;
+	border-bottom: 2px solid #7bb4e5;
+    padding-bottom: 15px;
+}
+
+.aspas{float: left;
+    font-size: 10em;
+    font-style: normal;
+    font-weight: bold;
+    line-height: 0.8em;
+    margin-left: -0.05em;
+    max-height: 0.4em;}
+	
+	p{font-size:20px;}
