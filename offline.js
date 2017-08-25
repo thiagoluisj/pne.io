@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1503512892,
+	"version": 1503663548,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -54,11 +54,8 @@
 		"images/objetobalao-sheet2.png",
 		"images/sprite2-sheet0.png",
 		"images/sprite4-sheet0.png",
-		"images/sprite4-sheet1.png",
 		"images/sprite6-sheet0.png",
 		"images/sprite7-sheet0.png",
-		"images/sprite7-sheet1.png",
-		"images/sprite7-sheet2.png",
 		"images/tiledbackground.png",
 		"images/sprite8-sheet0.png",
 		"images/sprite9-sheet0.png",
